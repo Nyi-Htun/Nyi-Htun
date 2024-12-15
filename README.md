@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nyi Nyi Htun  
 
-<!--
-**Nyi-Htun/Nyi-Htun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Developer | Problem Solver | Tech Enthusiast  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate full-stack developer who enjoys building web and mobile applications from scratch, focusing on user-centric design and scalable architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+- 🔭 I’m currently working on TASTYSOFT. 
+- 🌱 I’m learning ReactJS  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Frontend  
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Dart  
+- **Libraries/Frameworks**: React, Angular, Flutter  
+
+### Backend  
+- **Languages**: Node.js, Python  
+- **Frameworks**: Express.js, Flask
+
+### Databases  
+- **Relational**: MySQL, PostgreSQL  
+- **NoSQL**: MongoDB, Firebase  
+
+### Tools & Platforms  
+- Version Control: Git, GitHub  
+- Cloud: AWS, Firebase, Heroku  
+- CI/CD: GitHub Actions
+
+---
+
+## 📈 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyi-Htun&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyi-Htun&layout=compact&theme=radical)  
+
+---
+
+## 📬 Let's Connect  
+
+- LinkedIn: https://www.linkedin.com/in/nyihtun 
+- Email: nyihtun337@gmail.com 
