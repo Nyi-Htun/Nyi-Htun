@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who enjoys b
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on TASTYSOFT. 
-- 🌱 I’m learning ReactJS  
+- 🔭 I’m currently working at TASTYSOFT. 
+- 🌱 I’m currently learning ReactJS  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### Frontend  
 - **Languages**: HTML, CSS, JavaScript, TypeScript, Dart  
