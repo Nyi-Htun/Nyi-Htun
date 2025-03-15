@@ -5,8 +5,6 @@
 Welcome to my GitHub profile! I'm a passionate full-stack developer who enjoys building web and mobile applications from scratch, focusing on user-centric design and scalable architectures.
 
 ---
-# 🚀 About Me
-
 ## 🛠️ Tech Stack
 
 ### **Languages**<br/><br />
